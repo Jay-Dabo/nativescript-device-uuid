@@ -1,0 +1,28 @@
+{
+  "name": "nativescript-device-uuid",
+  "version": "1.0.0",
+  "description": "A NativeScript plugin that allows you to get a UUID (Universal Unique Identifier) for a device.",
+  "main": "index.js",
+  "type": "index.d.ts",
+  "nativescript": {
+    "platforms": {
+      "ios": "6.0.0",
+      "android": "6.0.0"
+    }
+  },
+  "author": {
+    "name": "Jeffrey Dabo",
+    "email": "dabo@quadrant2.us"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jay-Dabo/nativescript-device-uuid.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "UUID",
+    "UDID",
+    "Device"
+  ],
+  "license": "Apache-2.0"
+}
